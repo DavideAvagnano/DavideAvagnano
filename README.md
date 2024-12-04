@@ -3,8 +3,6 @@ I'm Davide, an ex aerospace engineering student turned coder 👨‍💻.<br/><b
 My primarily interest is ***full-stack development***. I’m fascinated by large-scale and high-impact products, and I like to contribute to their creation and development.<br/><br/>
 When I'm not coding, I follow the development of the blockchain world.
 
-<br/>
-
 ## 🚀 Favorite Tech Stack
 ![Static Badge](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
