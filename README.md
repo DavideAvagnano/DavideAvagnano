@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Davide, an ex aerospace engineering student turned coder 👨‍💻.<br/><br/>
+I'm [Davide](https://portfolio-website-blond-phi.vercel.app/), an ex aerospace engineering student turned coder 👨‍💻.<br/><br/>
 My primarily interest is ***full-stack development***. I’m fascinated by large-scale and high-impact products, and I like to contribute to their creation and development.<br/><br/>
 When I'm not coding, I follow the development of the blockchain world.
 
@@ -18,9 +18,9 @@ When I'm not coding, I follow the development of the blockchain world.
 ![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📫 How to reach me
-- Email
-- Linkedin
-- Website
+- [Email](mailto:dav.avagnano@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/davide-avagnano/)
+- [Website](https://portfolio-website-blond-phi.vercel.app/)
 
 <!--
 **DavideAvagnano/DavideAvagnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
