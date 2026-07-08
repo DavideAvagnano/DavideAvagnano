@@ -4,14 +4,15 @@ Aerospace engineering graduate turned **software engineer**, working freelance s
 
 I build and maintain **end-to-end production systems** in the TypeScript / React / Next.js / Node.js ecosystem on PostgreSQL. My center of gravity is the **backend**: data modeling, type-safe APIs, async workers, security and deployment.
 
-I've contributed to high-volume production platforms — performance marketing and e-commerce analytics — and built a complete SaaS product on my own.
+I've contributed to high-volume production platforms — performance marketing and e-commerce analytics — and built a complete SaaS product on my own. I also work with **Python** for data analysis and scripting.
 
 ## 🛠️ Tech Stack
 
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frontend**
 
@@ -27,6 +28,14 @@ I've contributed to high-volume production platforms — performance marketing a
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Data Analysis**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
 
 **Infra & Tools**
 
@@ -39,7 +48,6 @@ I've contributed to high-volume production platforms — performance marketing a
 - 🌐 [Portfolio](https://portfolio-website-blond-phi.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/davide-avagnano/)
 - ✉️ [Email](mailto:dav.avagnano@gmail.com)
-
 
 <!--
 **DavideAvagnano/DavideAvagnano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
